@@ -14,6 +14,6 @@ The program doesn't convert numbers larger than 3000.
 
 ## Usage
 ```
-ruby my_roman_numerals_converter.rb 2476
+ruby roman_converter.rb 2476
 Output: 2476 => MMCDLXXVI
 ```
